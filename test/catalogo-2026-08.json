@@ -1,0 +1,873 @@
+{
+  "_origen": "data/Plantilla_IMB_Master.xlsx, hoja Datos",
+  "modelos": [
+    {
+      "item": 1,
+      "fila": 10,
+      "marca": "DFSK",
+      "modelo": "C31 (Pick up)",
+      "precio": 15990.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 500.0,
+        "OCEANICA": 390.0,
+        "MERCANTIL": 460.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 2,
+      "fila": 11,
+      "marca": "DFSK",
+      "modelo": "C31 (Box)",
+      "precio": 17490.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 500.0,
+        "OCEANICA": 390.0,
+        "MERCANTIL": 460.0
+      },
+      "tasaPorModelo": null
+    },
+    {
+      "item": 3,
+      "fila": 12,
+      "marca": "DFSK",
+      "modelo": "C32 (Pick up)",
+      "precio": 18820.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 480.0,
+        "OCEANICA": 450.0,
+        "MERCANTIL": 790.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 4,
+      "fila": 13,
+      "marca": "DFSK",
+      "modelo": "C35 (Panel)",
+      "precio": 21990.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 700.0,
+        "OCEANICA": 490.0,
+        "MERCANTIL": 920.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 5,
+      "fila": 14,
+      "marca": "DFSK",
+      "modelo": "C37 (Pasajeros)",
+      "precio": 23210.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 890.0,
+        "OCEANICA": 490.0,
+        "MERCANTIL": 940.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 6,
+      "fila": 15,
+      "marca": "DFSK",
+      "modelo": "C37 ( 11 Pasajeros)",
+      "precio": 23750.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 890.0,
+        "OCEANICA": 490.0,
+        "MERCANTIL": 940.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 7,
+      "fila": 16,
+      "marca": "DFSK",
+      "modelo": "D51 (Plataforma)",
+      "precio": 15990.0,
+      "gastosAdministrativos": 880.0,
+      "primaSeguro12m": {
+        "BANESCO": 510.0,
+        "OCEANICA": 350.0,
+        "MERCANTIL": 590.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 8,
+      "fila": 17,
+      "marca": "DFSK",
+      "modelo": "D51 (Estacas)",
+      "precio": 15990.0,
+      "gastosAdministrativos": 880.0,
+      "primaSeguro12m": {
+        "BANESCO": 850.0,
+        "OCEANICA": 390.0,
+        "MERCANTIL": 930.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 9,
+      "fila": 18,
+      "marca": "DFSK",
+      "modelo": "D71 (Pick up)",
+      "precio": 21980.0,
+      "gastosAdministrativos": 1100.0,
+      "primaSeguro12m": {
+        "BANESCO": 580.0,
+        "OCEANICA": 480.0,
+        "MERCANTIL": 920.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 10,
+      "fila": 19,
+      "marca": "DFSK",
+      "modelo": "D72 (Pick up)",
+      "precio": 24810.0,
+      "gastosAdministrativos": 1100.0,
+      "primaSeguro12m": {
+        "BANESCO": 700.0,
+        "OCEANICA": 550.0,
+        "MERCANTIL": 1050.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 11,
+      "fila": 20,
+      "marca": "DFSK",
+      "modelo": "D71 (BOX)",
+      "precio": 25510.0,
+      "gastosAdministrativos": 1100.0,
+      "primaSeguro12m": {
+        "BANESCO": 700.0,
+        "OCEANICA": 550.0,
+        "MERCANTIL": 1050.0
+      },
+      "tasaPorModelo": 1.2
+    },
+    {
+      "item": 12,
+      "fila": 21,
+      "marca": "DFSK",
+      "modelo": "D1 Pick up (4X4)",
+      "precio": 24990.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 700.0,
+        "OCEANICA": 520.0,
+        "MERCANTIL": 1020.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 13,
+      "fila": 22,
+      "marca": "DFSK",
+      "modelo": "Z9 Pick Up",
+      "precio": 39990.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 1100.0,
+        "OCEANICA": 520.0,
+        "MERCANTIL": 1020.0
+      },
+      "tasaPorModelo": null
+    },
+    {
+      "item": 14,
+      "fila": 23,
+      "marca": "DFSK",
+      "modelo": "K01S Cava (Isotermica)",
+      "precio": 14490.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 520.0,
+        "OCEANICA": 420.0,
+        "MERCANTIL": 650.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 15,
+      "fila": 24,
+      "marca": "DFSK",
+      "modelo": "K01S Cava (Refrig -5º)",
+      "precio": 18990.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 940.0,
+        "OCEANICA": 490.0,
+        "MERCANTIL": 790.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 16,
+      "fila": 25,
+      "marca": "DFSK",
+      "modelo": "K01S Cava (Refrig -18º)",
+      "precio": 20590.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 650.0,
+        "OCEANICA": 510.0,
+        "MERCANTIL": 860.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 17,
+      "fila": 26,
+      "marca": "DFSK",
+      "modelo": "K01S (Estacas)",
+      "precio": 13890.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 510.0,
+        "OCEANICA": 370.0,
+        "MERCANTIL": 820.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 18,
+      "fila": 27,
+      "marca": "DFSK",
+      "modelo": "K01S (Pick up)",
+      "precio": 12990.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 430.0,
+        "OCEANICA": 350.0,
+        "MERCANTIL": 580.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 19,
+      "fila": 28,
+      "marca": "DFSK",
+      "modelo": "K02S (Pick up)",
+      "precio": 14160.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 430.0,
+        "OCEANICA": 380.0,
+        "MERCANTIL": 650.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 20,
+      "fila": 29,
+      "marca": "DFSK",
+      "modelo": "K05S (Panel)",
+      "precio": 14640.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 450.0,
+        "OCEANICA": 370.0,
+        "MERCANTIL": 720.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 21,
+      "fila": 30,
+      "marca": "DFSK",
+      "modelo": "K07S (Pasajeros)",
+      "precio": 14990.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 690.0,
+        "OCEANICA": 370.0,
+        "MERCANTIL": 620.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 22,
+      "fila": 31,
+      "marca": "DFSK",
+      "modelo": "GLORY 500 (SUV)",
+      "precio": 22990.0,
+      "gastosAdministrativos": 1100.0,
+      "primaSeguro12m": {
+        "BANESCO": 540.0,
+        "OCEANICA": 450.0,
+        "MERCANTIL": 720.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 23,
+      "fila": 32,
+      "marca": "DFSK",
+      "modelo": "GLORY 500 T",
+      "precio": 24990.0,
+      "gastosAdministrativos": 1100.0,
+      "primaSeguro12m": {
+        "BANESCO": 560.0,
+        "OCEANICA": 480.0,
+        "MERCANTIL": 790.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 24,
+      "fila": 33,
+      "marca": "DFSK",
+      "modelo": "GLORY E5 (Hybrid)",
+      "precio": 36990.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 790.0,
+        "OCEANICA": 660.0,
+        "MERCANTIL": 1100.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 25,
+      "fila": 34,
+      "marca": "SHINERAY",
+      "modelo": "X30 (Pasajeros)",
+      "precio": 23750.0,
+      "gastosAdministrativos": 880.0,
+      "primaSeguro12m": {
+        "BANESCO": 860.0,
+        "OCEANICA": 450.0,
+        "MERCANTIL": 860.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 26,
+      "fila": 35,
+      "marca": "SHINERAY",
+      "modelo": "X30 (Panel)",
+      "precio": 21990.0,
+      "gastosAdministrativos": 880.0,
+      "primaSeguro12m": {
+        "BANESCO": 610.0,
+        "OCEANICA": 520.0,
+        "MERCANTIL": 810.0
+      },
+      "tasaPorModelo": 0.2
+    },
+    {
+      "item": 27,
+      "fila": 36,
+      "marca": "GAC",
+      "modelo": "EMPOW GS",
+      "precio": 23990.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 670.0,
+        "OCEANICA": 550.0,
+        "MERCANTIL": 790.0
+      },
+      "tasaPorModelo": 1.2
+    },
+    {
+      "item": 28,
+      "fila": 37,
+      "marca": "GAC",
+      "modelo": "EMZOOM GB",
+      "precio": 25490.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 700.0,
+        "OCEANICA": 562.0,
+        "MERCANTIL": 780.0
+      },
+      "tasaPorModelo": 2.2
+    },
+    {
+      "item": 29,
+      "fila": 38,
+      "marca": "GAC",
+      "modelo": "EMZOOM GS",
+      "precio": 23490.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 630.0,
+        "OCEANICA": 520.0,
+        "MERCANTIL": 690.0
+      },
+      "tasaPorModelo": 3.2
+    },
+    {
+      "item": 30,
+      "fila": 39,
+      "marca": "GAC",
+      "modelo": "EMZOOM R Style",
+      "precio": 28490.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 700.0,
+        "OCEANICA": 562.0,
+        "MERCANTIL": 690.0
+      },
+      "tasaPorModelo": 4.2
+    },
+    {
+      "item": 31,
+      "fila": 40,
+      "marca": "GAC",
+      "modelo": "GS8 GL",
+      "precio": 35990.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 730.0,
+        "OCEANICA": 550.0,
+        "MERCANTIL": 1100.0
+      },
+      "tasaPorModelo": null
+    },
+    {
+      "item": 32,
+      "fila": 41,
+      "marca": "GAC",
+      "modelo": "GS8 GT",
+      "precio": 39990.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 810.0,
+        "OCEANICA": 900.0,
+        "MERCANTIL": 1190.0
+      },
+      "tasaPorModelo": null
+    },
+    {
+      "item": 33,
+      "fila": 42,
+      "marca": "GAC",
+      "modelo": "GS8 4WD GT",
+      "precio": 49900.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 970.0,
+        "OCEANICA": 900.0,
+        "MERCANTIL": 1390.0
+      },
+      "tasaPorModelo": null
+    },
+    {
+      "item": 34,
+      "fila": 43,
+      "marca": "GAC",
+      "modelo": "EMPOW GE",
+      "precio": 26990.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 970.0,
+        "OCEANICA": 720.0,
+        "MERCANTIL": 1390.0
+      },
+      "tasaPorModelo": null
+    },
+    {
+      "item": 35,
+      "fila": 44,
+      "marca": "GAC",
+      "modelo": "EMPOW GE 2.0",
+      "precio": 34990.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 970.0,
+        "OCEANICA": 720.0,
+        "MERCANTIL": 1390.0
+      },
+      "tasaPorModelo": null
+    },
+    {
+      "item": 36,
+      "fila": 45,
+      "marca": "GAC",
+      "modelo": "GS8 FACELIFT",
+      "precio": 59990.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 970.0,
+        "OCEANICA": 900.0,
+        "MERCANTIL": 1390.0
+      },
+      "tasaPorModelo": null
+    },
+    {
+      "item": 37,
+      "fila": 46,
+      "marca": "GAC",
+      "modelo": "EMPOW GL",
+      "precio": 28490.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 970.0,
+        "OCEANICA": 720.0,
+        "MERCANTIL": 1390.0
+      },
+      "tasaPorModelo": null
+    },
+    {
+      "item": 38,
+      "fila": 47,
+      "marca": "GAC",
+      "modelo": "SMILODON 4x2",
+      "precio": 18590.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 630.0,
+        "OCEANICA": 770.0,
+        "MERCANTIL": 980.0
+      },
+      "tasaPorModelo": null
+    },
+    {
+      "item": 39,
+      "fila": 48,
+      "marca": "GAC",
+      "modelo": "SMILODON 4x4",
+      "precio": 19990.0,
+      "gastosAdministrativos": 380.0,
+      "primaSeguro12m": {
+        "BANESCO": 630.0,
+        "OCEANICA": 770.0,
+        "MERCANTIL": 980.0
+      },
+      "tasaPorModelo": null
+    }
+  ],
+  "ciudades": [
+    {
+      "indice": 1,
+      "ciudad": "CARACAS",
+      "traslado": 560.0
+    },
+    {
+      "indice": 2,
+      "ciudad": "C.C.C.T",
+      "traslado": 560.0
+    },
+    {
+      "indice": 4,
+      "ciudad": "VALENCIA",
+      "traslado": 560.0
+    },
+    {
+      "indice": 5,
+      "ciudad": "BARQUISIMETO",
+      "traslado": 560.0
+    },
+    {
+      "indice": 6,
+      "ciudad": "MARACAIBO",
+      "traslado": 960.0
+    },
+    {
+      "indice": 7,
+      "ciudad": "BARINAS",
+      "traslado": 960.0
+    },
+    {
+      "indice": 8,
+      "ciudad": "MERIDA",
+      "traslado": 960.0
+    },
+    {
+      "indice": 9,
+      "ciudad": "MARGARITA",
+      "traslado": 960.0
+    },
+    {
+      "indice": 10,
+      "ciudad": "PTO. LA CRUZ",
+      "traslado": 960.0
+    },
+    {
+      "indice": 11,
+      "ciudad": "PTO FIJO",
+      "traslado": 960.0
+    },
+    {
+      "indice": 12,
+      "ciudad": "MARACAY",
+      "traslado": 560.0
+    },
+    {
+      "indice": 13,
+      "ciudad": "CIUDAD BOLIVAR",
+      "traslado": 960.0
+    },
+    {
+      "indice": null,
+      "ciudad": "TÁCHIRA",
+      "traslado": 960.0
+    }
+  ],
+  "concesionarios": [
+    {
+      "indice": 1,
+      "concesionario": "01- HARBIN MOTORS",
+      "telefono": "0241-8233942/ 02141-8237853"
+    },
+    {
+      "indice": 2,
+      "concesionario": "02- EXHIBICIÓN CCCT",
+      "telefono": "0416-6142491"
+    },
+    {
+      "indice": 3,
+      "concesionario": "03- SAN ISIDRO",
+      "telefono": ""
+    },
+    {
+      "indice": 4,
+      "concesionario": "04- AUTONOR",
+      "telefono": ""
+    },
+    {
+      "indice": 5,
+      "concesionario": "05- DECARO MOTORS",
+      "telefono": ""
+    },
+    {
+      "indice": 6,
+      "concesionario": "06- META CARS",
+      "telefono": ""
+    },
+    {
+      "indice": 7,
+      "concesionario": "07- HOBBY CARS",
+      "telefono": ""
+    },
+    {
+      "indice": 8,
+      "concesionario": "08- PALMETTO SHOP",
+      "telefono": ""
+    },
+    {
+      "indice": 9,
+      "concesionario": "09- AKIMOTORS",
+      "telefono": ""
+    },
+    {
+      "indice": 10,
+      "concesionario": "10- LAS GARZAS MOTORS",
+      "telefono": ""
+    },
+    {
+      "indice": 11,
+      "concesionario": "11- PALMA MOTORS",
+      "telefono": ""
+    },
+    {
+      "indice": 12,
+      "concesionario": "12- EXHIBICIÓN LOS AVIADORES",
+      "telefono": ""
+    },
+    {
+      "indice": 13,
+      "concesionario": "13-EXHIBICIÓN PARQUE CERRO VERDE",
+      "telefono": ""
+    },
+    {
+      "indice": 14,
+      "concesionario": "14- AUTOMOTORES LA FLORIDA",
+      "telefono": ""
+    },
+    {
+      "indice": 15,
+      "concesionario": "00- IMB MOVILIDAD, C.A",
+      "telefono": ""
+    },
+    {
+      "indice": 16,
+      "concesionario": "01 GAC VALENCIA",
+      "telefono": ""
+    },
+    {
+      "indice": 17,
+      "concesionario": "02 GAC BARQUISIMETO",
+      "telefono": ""
+    }
+  ],
+  "aseguradoras": [
+    {
+      "indice": 1,
+      "nombre": "OCEANICAS DE SEGURO",
+      "clave": "OCEANICA"
+    },
+    {
+      "indice": 2,
+      "nombre": "BANESCO SEGUROS",
+      "clave": "BANESCO"
+    },
+    {
+      "indice": 3,
+      "nombre": "MERCANTIL SEGUROS",
+      "clave": "MERCANTIL"
+    }
+  ],
+  "plazos": [
+    12,
+    18,
+    24,
+    36,
+    48
+  ],
+  "gpsPorPlazo": {
+    "12": 320.0,
+    "18": 370.0,
+    "24": 420.0,
+    "36": 470.0,
+    "48": 520.0
+  },
+  "polizaVidaOceanica": {
+    "12": 100.0,
+    "18": 200.0,
+    "24": 300.0,
+    "36": 400.0,
+    "48": 500.0
+  },
+  "escalonesPolizaVida": [
+    {
+      "cobertura": 0.0,
+      "BANESCO": 0.0,
+      "MERCANTIL": 0.0
+    },
+    {
+      "cobertura": 10000.0,
+      "BANESCO": 90.0,
+      "MERCANTIL": 100.0
+    },
+    {
+      "cobertura": 20000.0,
+      "BANESCO": 190.0,
+      "MERCANTIL": 200.0
+    },
+    {
+      "cobertura": 30000.0,
+      "BANESCO": 290.0,
+      "MERCANTIL": 300.0
+    },
+    {
+      "cobertura": 40000.0,
+      "BANESCO": 390.0,
+      "MERCANTIL": 400.0
+    },
+    {
+      "cobertura": 50000.0,
+      "BANESCO": 490.0,
+      "MERCANTIL": 500.0
+    },
+    {
+      "cobertura": 60000.0,
+      "BANESCO": 590.0,
+      "MERCANTIL": 600.0
+    }
+  ],
+  "multiplicadorSeguroPorPlazo": {
+    "12": 1,
+    "18": 1.5,
+    "24": 2,
+    "36": 3,
+    "48": 4
+  },
+  "anios": [
+    "2023",
+    "2024",
+    "2025",
+    "2026",
+    "2027"
+  ],
+  "colores": [
+    "Blanco",
+    "BLANCO",
+    "BLANCO",
+    "GRIS",
+    "PLATA",
+    "NEGRO",
+    "NEGRO",
+    "AZUL",
+    "VERDE"
+  ],
+  "motores": [
+    "1.1",
+    "1.5",
+    "1.5",
+    "1.5",
+    "1.5",
+    "1.5",
+    "1.5",
+    "1.5",
+    "1.5",
+    "2.0",
+    "2.0",
+    "2.1",
+    "2.5",
+    "2.0 Turbo",
+    "1.1",
+    "1.1",
+    "1.2",
+    "1.1",
+    "1.1",
+    "1.1",
+    "1.1",
+    "1.1"
+  ],
+  "estados": [
+    "Amazonas - Puerto Ayacucho",
+    "Anzoátegui - Barcelona",
+    "Apure - San Fernando de Apure",
+    "Aragua - Maracay",
+    "Barinas - Barinas",
+    "Bolívar - Ciudad Bolívar",
+    "Carabobo - Valencia",
+    "Cojedes - San Carlos",
+    "Delta Amacuro - Tucupita",
+    "Distrito Capital",
+    "Falcón - Coro",
+    "Guárico - San Juan de los Morros",
+    "Lara - Barquisimeto",
+    "Mérida - Mérida",
+    "Miranda - Los Teques",
+    "Monagas - Maturín",
+    "Nueva Esparta - La Asunción",
+    "Portuguesa - Guanare",
+    "Sucre - Cumaná",
+    "Táchira - San Cristóbal",
+    "Trujillo - Trujillo",
+    "Vargas - La Guaira",
+    "Yaracuy - San Felipe",
+    "Zulia - Maracaibo"
+  ],
+  "tiposFinanciamiento": [
+    {
+      "indice": 1,
+      "nombre": "LINEAL"
+    },
+    {
+      "indice": 2,
+      "nombre": "FRANCES"
+    }
+  ],
+  "constantes": {
+    "iva": 0.16,
+    "igtf": 0.03,
+    "placa": 480,
+    "tasaAnual": 0.2,
+    "comisionFlat_DFSK": 0.03,
+    "comisionFlat_SHINERAY": 0.04
+  }
+}
